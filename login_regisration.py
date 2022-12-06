@@ -1,0 +1,1 @@
+C:/Пользователи/мама/PycharmProjects/pythonProject3/AUTOMATION/book_store_testing2
