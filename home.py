@@ -1,1 +1,1 @@
-C:/мама/PyCharmProjects/pythonProject3/AUTOMATION/book_store_testing2
+C:\мама\PyCharmProjects\pythonProject3\AUTOMATION\book_store_testing2

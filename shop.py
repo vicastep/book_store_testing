@@ -1,1 +1,1 @@
-C:/Пользователи/мама/PycharmProjects3/pythonProject3/AUTOMATION/book_store_testing2
+C:\Пользователи\мама\PycharmProjects3\pythonProject3\AUTOMATION\book_store_testing2
